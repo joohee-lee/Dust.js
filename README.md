@@ -51,25 +51,21 @@ Dust is a Javascript templating engine. It inherits its look from the ctemplate 
 ## 템플릿 엔진을 선택할때 고려해야할 요소
 ### LinkedIn에서 고민했던 요소
 
-DRY: how DRY is the templating technology? is there support for code-reuse and partials?
-2.i18n: is there support for translations and multiple languages?
-3.Hot reload: are changes visible immediately or is there a compile/deploy cycle?
-4.Performance: how long does it take to render in the browser and server?
-5.Ramp-up time: how is the learning curve?
-6.Ramped-up productivity: once you’ve ramped-up, how fast can you build things?
-7.Server/client support: can the same template be rendered both client-side and server-side?
-8.Community: is there an active community using this project? Can you google issues?
-9.Library agnostic: are there dependencies on other JS libraries, such as jQuery or Mootools?
-10.Testable: how hard is it to write unit and integration tests?
-11.Debuggable: is it possible to step through the code while it’s running to track down errors?
-12.Editor support: is there an editor with auto-complete, syntax highlighting, error checking, etc?
-13.Maturity: is this a relatively stable project or still experimenting and churning?
-14.Documentation: how is the documentation?
-15.Code documentation: do the templates encourage/require documentation/comments? 
-
-
- 
-
+1. DRY: how DRY is the templating technology? is there support for code-reuse and partials?
+2. i18n: is there support for translations and multiple languages?
+3. Hot reload: are changes visible immediately or is there a compile/deploy cycle?
+4. Performance: how long does it take to render in the browser and server?
+5. Ramp-up time: how is the learning curve?
+6. Ramped-up productivity: once you’ve ramped-up, how fast can you build things?
+7. Server/client support: can the same template be rendered both client-side and server-side?
+8. Community: is there an active community using this project? Can you google issues?
+9. Library agnostic: are there dependencies on other JS libraries, such as jQuery or Mootools?
+10. Testable: how hard is it to write unit and integration tests?
+11. Debuggable: is it possible to step through the code while it’s running to track down errors?
+12. Editor support: is there an editor with auto-complete, syntax highlighting, error checking, etc?
+13. Maturity: is this a relatively stable project or still experimenting and churning?
+14. Documentation: how is the documentation?
+15. Code documentation: do the templates encourage/require documentation/comments? 
 
 ##  출처
 > https://engineering.linkedin.com/frontend/leaving-jsps-dust-moving-linkedin-dustjs-client-side-templates
