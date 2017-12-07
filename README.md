@@ -25,28 +25,28 @@ Dust is a Javascript templating engine. It inherits its look from the ctemplate 
 
 
 # Embedded JavaScript Templates
-1.underscore.js 
-2.Jade 
-3.haml-js 
-4.jQote2 
-5.doT 
-6.Stencil 
-7.Parrot 
-8.Eco 
-9.EJS 
-10.jQuery templates 
-11.node-asyncEJS 
+1. underscore.js 
+2. Jade 
+3. haml-js 
+4. jQote2 
+5. doT 
+6. Stencil 
+7. Parrot 
+8. Eco 
+9. EJS 
+10. jQuery templates 
+11. node-asyncEJS 
 
 
 # Logic-less Templates ( 자바스크립트 로직이 없는  logic-less의 mustache 계열)
 
-1.mustache 
-2.dust.js 
-3.handlebars 
-4.Google Closure Templates 
-5.Nun 
-6.Mu 
-7.kite 
+1. mustache 
+2. dust.js 
+3. handlebars 
+4. Google Closure Templates 
+5. Nun 
+6. Mu 
+7. kite 
 
 ## 템플릿 엔진을 선택할때 고려해야할 요소
 ### LinkedIn에서 고민했던 요소
